@@ -1,6 +1,3 @@
-# 2026_Agentic_Software_Engineering
-Agentic Software Engineering
-#
 # Agentic Software Engineering: เมื่อ AI ไม่ได้เป็นแค่ผู้ช่วย แต่กลายเป็นสมาชิกของทีมพัฒนา Software
 
 ## บทนำ
