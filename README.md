@@ -16,7 +16,7 @@
 
 ซึ่ง AI ไม่ได้เป็นเพียงผู้ช่วยเขียนโค้ดอีกต่อไป แต่เริ่มทำหน้าที่เสมือนสมาชิกคนหนึ่งของทีมพัฒนาซอฟต์แวร์
 
----
+#
 
 # จาก AI Assistant สู่ AI Agent
 
@@ -54,7 +54,7 @@ AI Agent Team
 
 AI ไม่ได้เพียงตอบคำถาม แต่สามารถรับเป้าหมายระดับธุรกิจ แล้ววางแผน แบ่งงาน ประสานงาน และดำเนินการจนบรรลุเป้าหมายได้
 
----
+#
 
 # Agent คืออะไร
 
@@ -82,7 +82,7 @@ Agent สามารถ
 
 ได้โดยอัตโนมัติ
 
----
+#
 
 # Agentic คืออะไร
 
@@ -100,7 +100,7 @@ Agent เปรียบเสมือน "พนักงานหนึ่ง
 
 ส่วน Agentic เปรียบเสมือน "ทีมงานทั้งทีม"
 
----
+#
 
 # Agentic Software Engineering ทำงานอย่างไร
 
@@ -140,7 +140,7 @@ Architect Agent
 
 แต่ละ Agent รับผิดชอบงานเฉพาะด้านและทำงานร่วมกันโดยอัตโนมัติ
 
----
+#
 
 # ตัวอย่างการทำงานจริง
 
@@ -168,7 +168,7 @@ Architect Agent
 
 ตามมาตรฐานขององค์กร
 
----
+#
 
 ## QA Agent
 
@@ -180,7 +180,7 @@ Architect Agent
 
 โดยอัตโนมัติ
 
----
+#
 
 ## Security Agent
 
@@ -193,7 +193,7 @@ Architect Agent
 
 ก่อน Merge Code
 
----
+#
 
 ## DevOps Agent
 
@@ -206,7 +206,7 @@ Architect Agent
 
 พร้อม Deploy ไปยัง Environment ที่กำหนด
 
----
+#
 
 # Agentic SDLC
 
@@ -253,7 +253,7 @@ Monitoring
 
 มนุษย์เข้ามาตรวจสอบเฉพาะจุดสำคัญ
 
----
+#
 
 # สิ่งที่สำคัญกว่า Prompt Engineering
 
@@ -279,7 +279,7 @@ docs/
 ยิ่ง Context มีคุณภาพสูงเท่าไร
 Agent ก็ยิ่งสร้างผลลัพธ์ที่มีคุณภาพสูงมากขึ้นเท่านั้น
 
----
+#
 
 # Human-in-the-Loop
 
@@ -311,7 +311,7 @@ AI Generates
 Production
 ```
 
----
+#
 
 # ผลกระทบต่อ Software Engineer
 
@@ -345,7 +345,7 @@ Technology Strategist
 * AI Governance
 * Agent Orchestration
 
----
+#
 
 # บทสรุป
 
@@ -368,3 +368,4 @@ Agentic Software Engineering คือวิวัฒนาการขั้น
 อนาคตของ Software Engineering อาจไม่ใช่การมี Developer มากขึ้น
 
 แต่อาจเป็นการมี Agent ที่ทำงานร่วมกับ Developer ได้อย่างมีประสิทธิภาพมากขึ้นต่างหาก
+#
