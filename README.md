@@ -1,4 +1,8 @@
-# Agentic Software Engineering: เมื่อ AI ไม่ได้เป็นแค่ผู้ช่วย แต่กลายเป็นสมาชิกของทีมพัฒนา Software
+# Agentic Software Engineering: 
+
+เมื่อ AI ไม่ได้เป็นแค่ผู้ช่วย แต่กลายเป็นสมาชิกของทีมพัฒนา Software
+
+<img width="1536" height="1024" alt="973f14d3-f6ab-4340-baf0-c51f1f241d46" src="https://github.com/user-attachments/assets/024bfc6e-caaf-4747-a93d-5a66764f6d22" />
 
 ## บทนำ
 
